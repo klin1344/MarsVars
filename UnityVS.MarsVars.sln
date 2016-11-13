@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MarsVars.CSharp.Plugins", "UnityVS.MarsVars.CSharp.Plugins.csproj", "{9C7068F3-EF54-DA86-CC72-FCF1F4112C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MarsVars.CSharp", "UnityVS.MarsVars.CSharp.csproj", "{C22B3DB0-C557-0737-94B5-99F94ABA1EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MarsVars.CSharp.Editor", "UnityVS.MarsVars.CSharp.Editor.csproj", "{D53DF8F9-75F3-83EB-48D7-3E99669BACEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7068F3-EF54-DA86-CC72-FCF1F4112C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7068F3-EF54-DA86-CC72-FCF1F4112C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7068F3-EF54-DA86-CC72-FCF1F4112C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7068F3-EF54-DA86-CC72-FCF1F4112C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22B3DB0-C557-0737-94B5-99F94ABA1EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22B3DB0-C557-0737-94B5-99F94ABA1EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22B3DB0-C557-0737-94B5-99F94ABA1EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22B3DB0-C557-0737-94B5-99F94ABA1EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53DF8F9-75F3-83EB-48D7-3E99669BACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DF8F9-75F3-83EB-48D7-3E99669BACEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DF8F9-75F3-83EB-48D7-3E99669BACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DF8F9-75F3-83EB-48D7-3E99669BACEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
