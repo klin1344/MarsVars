@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars.CSharp.Plugins", "Mars.CSharp.Plugins.csproj", "{7194C537-60BF-C0BF-80E0-D1F6ACCB23CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars.CSharp", "Mars.CSharp.csproj", "{547F9190-A489-5409-7CB3-F8DDE3EC4424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars.CSharp.Editor", "Mars.CSharp.Editor.csproj", "{D9DB840A-3502-52F2-2D06-4B93CE7DDC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7194C537-60BF-C0BF-80E0-D1F6ACCB23CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7194C537-60BF-C0BF-80E0-D1F6ACCB23CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7194C537-60BF-C0BF-80E0-D1F6ACCB23CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7194C537-60BF-C0BF-80E0-D1F6ACCB23CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547F9190-A489-5409-7CB3-F8DDE3EC4424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547F9190-A489-5409-7CB3-F8DDE3EC4424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547F9190-A489-5409-7CB3-F8DDE3EC4424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547F9190-A489-5409-7CB3-F8DDE3EC4424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DB840A-3502-52F2-2D06-4B93CE7DDC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DB840A-3502-52F2-2D06-4B93CE7DDC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DB840A-3502-52F2-2D06-4B93CE7DDC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DB840A-3502-52F2-2D06-4B93CE7DDC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
