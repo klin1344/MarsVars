@@ -1,0 +1,54 @@
+  h1 {
+    font-size: 48px;
+    line-height: 40px;
+    margin: 0.6em 0 .6em 0;
+    font-weight: normal;
+    color: white;
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+    position: relative;
+    color: #fff;
+  }
+  body{
+    margin: 0 auto;
+    background-image: url("../images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .container{
+    width: 50%;
+    height: 40%;
+    text-align: center;
+    background-color: rgba(52, 73, 94, 0.7);
+    border-radius: 2%;
+    margin: 0 auto;
+    margin-top: 8%;
+  }
+  .container img{
+    width: 120px;
+    height:120px;
+    margin-top: -6%;
+    margin-bottom: 3%;
+  }
+  input[type = "text"]{
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 10px;
+  }
+  .form-input::before{
+    position: absolute;
+    font-family: "FontAwesome";
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 30px;
+  }
+  .btn-login{
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    background-color: #2ECC71;
+  }
